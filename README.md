@@ -1,5 +1,3 @@
-# Student-Depression-Analysis-Using-SQL-Tableau
-
 # Student Depression Analysis Using SQL & Tableau
 
 ## Project Overview
